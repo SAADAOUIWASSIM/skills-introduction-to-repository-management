@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @SAADAOUIWASSIM
+/src/backend/database.py      @SAADAOUIWASSIM
+/src/backend/routers/auth.py  @SAADAOUIWASSIM
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @SAADAOUIWASSIM
